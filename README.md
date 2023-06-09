@@ -1,25 +1,37 @@
-# Hello, Juncture
+# The Stonebreakers
 
-This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
+_From Wikipedia, the free encyclopedia[^1]_
 
-## Aulacophora indica
+---
+The Stone Breakers (French: Les Casseurs de pierres) was an 1849 painting by the French painter Gustave Courbet. It was a work of realism, depicting two peasants, a young man and an old man, breaking rocks.
 
-.ve-media wc:The_Bug_Peek.jpg right
+The Stone Breakers was first exhibited at the Paris Salon of 1850. As a work of realism the subject matter addressed a scene of everyday life. This painting was intended to show the hard labor that poor citizens experienced. Courbet did not show the figure's faces, they represent the "every man" and are not meant to be specific individuals. At the same time the clothing of the figures implies some degree of individuality, the younger man's pants are too short and the older man's vest is striped.
 
-The image depicts a leaf beetle (Aulacophora indica) (Family: Chrysomelidae; subfamily: Galerucinae) looking out from a leaf hole of Alnus nepalensis tree. Adult leaf beetles make holes in host plant leaves while feeding. They camouflage themselves with these holes.
+The painting was destroyed during World War II, along with 154 other pictures, when a transport vehicle moving the pictures to the castle of Königstein, near Dresden, was bombed by Allied forces in February 1945.
 
-This image is hosted on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Bug_Peek.jpg) and was runner-up for Wikimedia Commons Picture of the Year for 2021.
+.ve-media wc:Gustave_Courbet_-_The_Stonebreakers_-_WGA05457.jpg
 
-Image controls are located in the top-left corner of the image and can be seen when hovering over the image.  These controls support image zoom, rotation, full-screen viewing, and repositioning to the start position.  Panning can be performed with keyboard arrow keys or by mouse click-and-drag.
+_italicized text_
 
-Image information can be seen when hovering the cursor over the info icon located in the top-right corner of the image.  The Image information popover includes the image title, description, attribution statement, and reuse rights.
+## Dickens Historical Map Overlay
 
-## Chitwan National Park, Nepal
+The Stone Breakers was first exhibited at the Paris Salon of 1850. As a work of realism the subject matter addressed a scene of everyday life. This painting was intended to show the hard labor that poor citizens experienced. 
 
-.ve-map Q1075023 right
+.ve-map Q507517 15
+    - allmaps=911e307b5cecc423
+    
+ 
+## Dickens Historical Map Overlay
 
-The map is centered on the Chitwan National Park in Nepal, which is the location associated with the image above.  The Wikidata identifier for Chitwan National Park is `Q1075023`.  When a map location is specified using a Wikidata ID (or QID) Juncture can automatically retrieve the geographic coordinates for map centering.
+The Stone Breakers was first exhibited at the Paris Salon of 1850. As a work of realism the subject matter addressed a scene of everyday life. This painting was intended to show the hard labor that poor citizens experienced. 
 
-An alternative to using a Wikidata identifier for map positioning is to use regular latitude and longitude coordinates.  In that approach the QID would be replaced with the coordinates `27.5,84.333`, resulting in an identical map.
-
-Similar to the image viewer, map zooming is controlled using the buttons located in the top-left corner of the map viewer.  Panning is performed with the keyboard arrow keys or by mouse click-and-drag.
+.ve-map Q1506093 15
+    - allmaps=993a81c2caf88fc8
+    
+    
+ ## Example Map Overlay
+ Sample Text
+ 
+.ve-map Q1506093 15
+     - allmaps=993a81c2caf88fc8
+   
