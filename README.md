@@ -23,7 +23,7 @@ The Stone Breakers was first exhibited at the Paris Salon of 1850. As a work of 
  
 ## Dickens Historical Map Overlay
 
-The Stone Breakers was first exhibited at the Paris Salon of 1850. As a work of realism the subject matter addressed a scene of everyday life. This painting was intended to show the hard labor that poor citizens experienced. 
+The Stone Breakers was first exhibited at the Paris Salon of 1850. As a work of realism the subject matter addressed a scene of everyday life. This painting was intended to show the hard labor that poor citizens experienced.
 
 .ve-map Q1506093 15
     - allmaps=993a81c2caf88fc8
